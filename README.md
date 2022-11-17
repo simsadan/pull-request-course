@@ -19,3 +19,7 @@ Modifying README.md further!
     Final modifications.
 
 local modification.
+
+
+### Modifying the README as requested
+	Date Nov. 17 2022
