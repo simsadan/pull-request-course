@@ -14,5 +14,5 @@ Modifying README.md further!
 
 ### Modifying the README
 
-
+    Date of deadline: Nov. 23
 
